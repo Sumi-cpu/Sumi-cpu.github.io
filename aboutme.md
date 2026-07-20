@@ -1,5 +1,5 @@
 
-<img width="1125" height="2000" alt="IMG_9291" src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7" />
+<img width="300" height="533" alt="IMG_9291" src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7" />
 
 ---
 title: About Me
