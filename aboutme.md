@@ -1,6 +1,6 @@
-
-<img width="300" height="533" alt="IMG_9291" src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7" />
-
+<div align="center">
+<img width="250" height="250" alt="IMG_9291" src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7" />
+</div>
 ---
 title: About Me
 subtitle: Cybersecurity Student | Bachelor of IT (Cyber Security)
