@@ -28,6 +28,8 @@ I bring a unique combination of strong communication, leadership, and technical 
 ### Technical Skills
 
 **Cyber Security & IT**
+- ISO 9001:2015 Quality Management Systems (QMS) – Awareness/Training, July 2025
+- ISO/IEC 27001:2022 Lead Auditor – PECB (or CQI & IRCA, BSI, SGS, etc.), July 2026
 - Network Security, Vulnerability Assessment, Risk Management, Firewalls, Encryption
 - Tools: Wireshark, Nmap, Kali Linux, Metasploit
 - Threat Intelligence, Cyber Risk Quantification (CRQ), Security Posture Management
