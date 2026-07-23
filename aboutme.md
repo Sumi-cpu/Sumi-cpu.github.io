@@ -8,8 +8,8 @@
   />
 </div>
 ---
-title: Cyber Security Analyst | IT Professional
-subtitle: Passionate about protecting digital systems through threat detection, vulnerability management, and security best practices.
+Title: Cyber Security Analyst | IT Professional
+Subtitle: Passionate about protecting digital systems through threat detection, vulnerability management, and security best practices.
 ---
 
 # Sumi Aitken
