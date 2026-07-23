@@ -1,5 +1,11 @@
 <div align="center">
-<img width="250" height="250" alt="IMG_9291" src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7" />
+  <img
+    src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7"
+    alt="Sumi Aitken Profile Photo"
+    width="250"
+    height="250"
+    style="border-radius: 8px; object-fit: cover;"
+  />
 </div>
 ---
 title: Cyber Security Analyst | IT Professional
