@@ -108,8 +108,9 @@ Safe Security, Sydney (Remote)
 - Finalist Nominee – Women in Security Awards 2026
 - AWS Cloud Practitioner Training (2025)
 - Cyber Security and Ethical Hacking with Kali Linux
-- RED Global Engagement Award – University of Reading
+- RED Global Engagement Award – University of Reading, UK
+- Earth51 Responsive AI Training University of Reading, UK 
 
----
+---  
 
 **Ready to bring strong problem-solving, technical aptitude, and dedication to a cybersecurity role.**
