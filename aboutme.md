@@ -2,8 +2,8 @@
 <img width="250" height="250" alt="IMG_9291" src="https://github.com/user-attachments/assets/008f9d92-504e-4ee0-b802-3d27283e93f7" />
 </div>
 ---
-title: About Me
-subtitle: Cybersecurity Student | Bachelor of IT (Cyber Security)
+title: Cyber Security Analyst | IT Professional
+subtitle: Passionate about protecting digital systems through threat detection, vulnerability management, and security best practices.
 ---
 
 # Sumi Aitken
