@@ -8,7 +8,7 @@
   />
 </div>
 ---
-Title: Cyber Security Analyst | IT Professional
+Title: Aspiring Cyber Security Analyst | IT Professional
 Subtitle: Passionate about protecting digital systems through threat detection, vulnerability management, and security best practices.
 ---
 
