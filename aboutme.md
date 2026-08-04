@@ -20,6 +20,7 @@ Subtitle: Passionate about protecting digital systems through threat detection, 
 **LinkedIn:** [linkedin.com/in/sumi-aitken-b985a7335](https://linkedin.com/in/sumi-aitken-b985a7335)  
 **GitHub:** [github.com/Sumi-cpu](https://github.com/Sumi-cpu)  
 **Portfolio:** [sumi-cpu.github.io](https://sumi-cpu.github.io/)
+**YouTube:** https://youtu.be/WjKtMKNGqj4
 
 ---
 
