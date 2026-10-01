@@ -98,6 +98,12 @@ Safe Security, Sydney (Remote)
 
 ### Key Projects
 
+- **Fashion Fits: AI Size Recommender for Second-Hand Fashion** – Ignite Their Future AI Innovation Challenge, iSOFT x Macquarie University (Retail sector), 2026
+  - Worked in a team of [number] to design an AI feature that reads clothing tags and gives each item a fit percentage, reducing wrong-size purchases in online second-hand retail
+  - Researched the problem and competitors (Garment DNA, True Fit) to define a clear point of difference
+  - Built responsible AI into the design: tag-photo-only privacy, honest confidence scoring, respectful language and human oversight
+  - Pitched the concept to a panel of industry judges; created the slide deck and Udemy-style course materials
+  - [View on GitHub](https://github.com/Sumi-cpu/Fashion-fits)
 - **Scam Investigation Portal** – Apate Cyber Security Hackathon 2025
 - **AI Career Assistant** – PromptFest AI Hackathon 2025
 - **Home Network Security Laboratory** (Wireshark, Nmap, Kali Linux)
@@ -106,7 +112,8 @@ Safe Security, Sydney (Remote)
 ---
 
 ### Certifications & Awards
-
+- Participant – Ignite Their Future: An AI Innovation Challenge, iSOFT Technologies x Macquarie University 2026
+- Pitch Training Certificate of Completion – Macquarie University 2026
 - Finalist Nominee – Women in Security Awards 2026
 - AWS Cloud Practitioner Training (2025)
 - Cyber Security and Ethical Hacking with Kali Linux
