@@ -121,5 +121,10 @@ Safe Security, Sydney (Remote)
 - Earth51 Responsive AI Training University of Reading, UK 
 
 ---  
-
+### Course Creation & Instruction
+**Udemy Instructor** – Self-published courses | 2026
+- Designed, scripted, recorded and published online courses on **ISO/IEC 27001:2022** (Information Security Management Systems) and **ISO/IEC 42001:2023** (AI Management Systems) for a global learner audience
+- Created narrated presentations, rewritten training materials and practical examples that explain complex standards in plain language
+- Course titles: [ISO 27001 course title] | [ISO 42001 course title]
+- Udemy profile: https://www.udemy.com/user/sumi-aitken-2/
 **Ready to bring strong problem-solving, technical aptitude, and dedication to a cybersecurity role.**
