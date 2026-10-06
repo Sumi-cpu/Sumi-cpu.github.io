@@ -112,6 +112,7 @@ Safe Security, Sydney (Remote)
 ---
 
 ### Certifications & Awards
+-- 💻 Participated in **HackWithInfy Australia 2026**, solving algorithmic problems in Java under time limits
 - Participant – Ignite Their Future: An AI Innovation Challenge, iSOFT Technologies x Macquarie University 2026
 - Pitch Training Certificate of Completion – Macquarie University 2026
 - Finalist Nominee – Women in Security Awards 2026
